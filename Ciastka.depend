@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1496140713 source:c:\users\max\desktop\projket 3, podzielony\ciastka\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1496140758 c:\users\max\desktop\projket 3, podzielony\ciastka\header.h
+
